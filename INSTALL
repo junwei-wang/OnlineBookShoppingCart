@@ -1,0 +1,8 @@
+
+					   INSTALL PHPbookmark
+
+1.	Copy all the file to you diretory.
+2.	Keep original directory structure, and make ./webroot as the
+	"webroot".
+3.	Import ./build/book_sc.sql ./bulid/some_data.sql to database.
+4.	Enjoy your own Amazon.
