@@ -1,0 +1,10 @@
+<?php
+	include_once('admin_auth_func.php');
+	include_once('admin_manage_func.php');
+	include_once('admin_output_func.php');
+	include_once('book_func.php');
+	include_once('data_valid_func.php');
+	include_once('db_func.php');
+	include_once('order_func.php');
+	include_once('output_func.php');
+?>
